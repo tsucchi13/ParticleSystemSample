@@ -10,6 +10,7 @@ public class hoge : MonoBehaviour {
 		Debug.Log ("hogehoge");
 		Debug.Log ("hogehogehoge");
 
+		Debug.Log ("パーマ");
 		
 	}
 	
