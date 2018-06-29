@@ -8,6 +8,8 @@ public class hoge : MonoBehaviour {
 	void Start () {
 		Debug.Log ("hoge");
 		Debug.Log ("hogehoge");
+		Debug.Log ("hogehogehoge");
+
 		
 	}
 	
